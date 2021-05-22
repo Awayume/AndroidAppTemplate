@@ -1,0 +1,2 @@
+# AndroidAppTemplate
+AndroidアプリをJavaで開発するときのテンプレートです。
