@@ -15,7 +15,7 @@ jobs:
       matrix:
         compile-sdk: [31]
         build-tools: [30.0.3]
-        sdk-tools-url: [https://dl.google.com/android/repository/commandlinetools-linux-7583922_latest.zip]
+        sdk-tools-url: ["https://dl.google.com/android/repository/commandlinetools-linux-7583922_latest.zip"]
 
     steps:
     - uses: actions/checkout@v1
